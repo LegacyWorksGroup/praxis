@@ -10,7 +10,7 @@ execute:
 
 website:
   favicon: content/images/logo_lwg-circle.png
-  title: "LegacyWorks Group Template Series Website"
+  title: "LegacyWorks Praxis Series"
   repo-url: https://github.com/LegacyWorksGroup
   repo-actions: [issue]
   navbar:
